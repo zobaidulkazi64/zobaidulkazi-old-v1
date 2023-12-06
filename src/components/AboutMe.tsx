@@ -1,5 +1,5 @@
 import React, { useRef } from "react";
-import me from "../assets/img/me.webp";
+import me from "../assets/img/me.svg";
 import { aboutMeData } from "../assets/lib/data";
 import { Autoplay, Pagination, Navigation } from "swiper/modules";
 import { Swiper, SwiperSlide } from "swiper/react";
